@@ -38,6 +38,6 @@ El flujo de trabajo desarrollado en el proyecto comprende:
   
 ## Estructura del repositorio
 
-- `CCVM2024_ML_Pipeline.ipynb/`: Notebook principal con todo el flujo analítico y de modelado
-- `CCVM2024_ClinicalDataset_Anonymized.xlsx/`: Dataset clínico anonimizado utilizado en el estudio
-- `README.md/`: Documentación del proyecto
+- **`CCVM2024_ML_Pipeline.ipynb`**: Notebook principal con todo el flujo analítico y de modelado
+- **`CCVM2024_ClinicalDataset_Anonymized.xlsx`**: Dataset clínico anonimizado utilizado en el estudio
+- **`README.md`**: Documentación del proyecto
